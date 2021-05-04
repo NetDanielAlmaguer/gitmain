@@ -1,0 +1,5 @@
+ID~Tipo Factura~Cód Cliente~Desc Gral.~Valor Total~Fecha Transacción~Fecha efectiva~Orden de Compra~Desc de la línea~Cuenta~Subcuenta~Centro Costos~Proyecto~Libro diario~Gravable~Excluir Imp~Clase Impuesto~Tipo Impuesto~Uso Impuestos~Ambiente Impuestos~Zona Impuestos~Impuestos producto~Fecha Impuestosp~Tipo Trans Impuestos~Monto Gravable~Valor~Valor CREDITNOTE~Valor INVOICE~Terminos de Crédito~Comentarios
+1~CREDITNOTE~14300002~14300002, *C181842104-004*~802.23~04/21/2021~04/21/2021~~Pronto Pago~260598~385~3353~530535DH~~FALSE~FALSE~~~~~~~04/21/2021~~~0~128.08~~CONTADO~
+1~CREDITNOTE~14300002~14300002, *C181842104-004*~802.23~04/21/2021~04/21/2021~~Pronto Pago~260598~413~3353~530535DH~~TRUE~FALSE~~~~~~~04/21/2021~~~0~13.91~~CONTADO~
+1~CREDITNOTE~14300002~14300002, *C181842104-004*~802.23~04/21/2021~04/21/2021~~Pronto Pago~260598~337~3353~530535DH~~TRUE~FALSE~~~~~~~04/21/2021~~~0~567.25~~CONTADO~
+1~CREDITNOTE~14300002~14300002, *C181842104-004*~802.23~04/21/2021~04/21/2021~~Pronto Pago~135530~~~~~FALSE~FALSE~M18~MX-IVA-15~~~~~04/21/2021~~709.24~802.23~92.99~~CONTADO~
